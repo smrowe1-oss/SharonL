@@ -3,4 +3,4 @@ I am a Data Professional transitioning into **Allied AI Research and Engineering
 
 By integrating IBM-certified AI capabilities with advanced diagnostic analytics in SQL and Tableau (100% certification score), I focus on building transparent, high-fidelity models for complex environments. 
 
-Explore my full range of technical schema designs, diagnostic workbooks, and research logs in my .
+
